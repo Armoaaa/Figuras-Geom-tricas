@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigurasGeometricas", "FigurasGeometricas\FigurasGeometricas.csproj", "{205A69C9-BC31-4FDD-A2C4-57487748333A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFigurasGeometricas", "AppFigurasGeometricas\AppFigurasGeometricas.csproj", "{DF3B636E-91FB-4B4D-B3EF-CEE5D279FD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigurasGeometricas.Tests", "FigurasGeometricas.Tests\FigurasGeometricas.Tests.csproj", "{262F578D-D269-4476-87BD-25608D3AF4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205A69C9-BC31-4FDD-A2C4-57487748333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205A69C9-BC31-4FDD-A2C4-57487748333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205A69C9-BC31-4FDD-A2C4-57487748333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205A69C9-BC31-4FDD-A2C4-57487748333A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3B636E-91FB-4B4D-B3EF-CEE5D279FD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3B636E-91FB-4B4D-B3EF-CEE5D279FD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3B636E-91FB-4B4D-B3EF-CEE5D279FD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3B636E-91FB-4B4D-B3EF-CEE5D279FD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262F578D-D269-4476-87BD-25608D3AF4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262F578D-D269-4476-87BD-25608D3AF4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262F578D-D269-4476-87BD-25608D3AF4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262F578D-D269-4476-87BD-25608D3AF4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

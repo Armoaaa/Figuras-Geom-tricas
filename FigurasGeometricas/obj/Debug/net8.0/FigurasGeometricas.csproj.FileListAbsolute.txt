@@ -1,0 +1,11 @@
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\bin\Debug\net8.0\FigurasGeometricas.deps.json
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\bin\Debug\net8.0\FigurasGeometricas.dll
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\bin\Debug\net8.0\FigurasGeometricas.pdb
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\FigurasGeometricas.AssemblyInfo.cs
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\FigurasGeometricas.dll
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\refint\FigurasGeometricas.dll
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\FigurasGeometricas.pdb
+C:\Users\Lab15-PC01\armoa\csharp\FigurasGeometricas\FigurasGeometricas\obj\Debug\net8.0\ref\FigurasGeometricas.dll
